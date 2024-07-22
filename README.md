@@ -20,4 +20,8 @@ Note: I continue to add new notebooks as I study additional filters.
 
 ## 📚 References
 [1] Oppenheim, Alan V., Alan S. Willsky, and Syed Hamid Nawab. Signals & Systems. Pearson Educación, 1997.
+
 [2] Brunton, Steven L., and J. Nathan Kutz. Data-driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. Cambridge University Press, 2022.
+
+
+
